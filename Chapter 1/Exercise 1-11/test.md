@@ -6,15 +6,16 @@ input are most likely to uncover bugs if there are any?
 
 Author:		Leee
 
-Date:			2021-1-14 Thu.
+Date:		2021-1-14 Thu.
 
 Filename:	test.md
 
-Page:			21
+Page:		21
 
 
 
-Refer to [this website](http://www.learntosolveit.com/cprogramming/Ex_1.11_test_word_count.html)
+
+Refer to [this website](https://www.learntosolveit.com/cprogramming/Ex_1.11_test_word_count.html)
 
 > Testing the word count program involves, giving three kinds of inputs.
 >
