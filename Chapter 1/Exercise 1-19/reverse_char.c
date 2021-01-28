@@ -31,7 +31,7 @@ main(){
 int n_getline(char s[], int lim){
     int c, i;
 
-    for (i = 0; (c=getchar())!=EOF && c!='\n' && c!=EOF; i ++ ){
+    for (i = 0; (c=getchar())!=EOF && c!='\n'; i ++ ){
         if (i < lim-2){     // if length valid then storage character
             s[i] = c;
         }
